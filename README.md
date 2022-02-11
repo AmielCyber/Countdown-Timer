@@ -13,6 +13,7 @@ systems programming.
 * **threads.c** - Manages the threads and runs a procedure when a particular alarm goes off.
 * **debug.c** - Debugger to see if we are getting the correct arguments and alarm time.
 * **main.c** - Our program entry point.
+* **Countdown Timer Diagrams.pdf** - Digrams of the program design for this project before it was implemented.
 
 ## Compile and Running Instructions
 1. Enter the command `make` in the Unix terminal from this repository to compile the micro shell program.
